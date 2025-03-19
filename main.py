@@ -1,9 +1,9 @@
-"""This module demonstrates the usage of the PriorityQueue class."""
+"""This module demonstrates the usage of the PriorityQueue class"""
 
 from priority_queue import PriorityQueue 
 def main():
     """
-    This function demonstrates the usage of the PriorityQueue class.
+    This function demonstrates the usage of the PriorityQueue class
     """
     pq = PriorityQueue()
 
